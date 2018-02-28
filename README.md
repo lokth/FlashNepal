@@ -14,3 +14,7 @@ https://examples.javacodegeeks.com/enterprise-java/spring/batch/spring-batch-etl
 https://examples.javacodegeeks.com/category/enterprise-java/spring/batch/
 
 https://aboullaite.me/spring-batch-tutorial-with-spring-boot/
+
+
+
+https://www.javacodegeeks.com/2013/11/batch-processing-best-practices.html
