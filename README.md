@@ -18,3 +18,5 @@ https://aboullaite.me/spring-batch-tutorial-with-spring-boot/
 
 
 https://www.javacodegeeks.com/2013/11/batch-processing-best-practices.html
+
+https://stackoverflow.com/questions/8774024/intellij-working-on-multiple-projects
