@@ -33,3 +33,7 @@ https://www.javacodebook.com/2013/09/17/spring-book-chapter-21-spring-batch/6/
 https://stackoverflow.com/questions/33824074/how-to-process-files-of-different-formats-using-spring-batch
 
 https://www.javabrahman.com/design-patterns/strategy-design-pattern-in-java/
+
+https://stackoverflow.com/questions/27776681/supercsv-reading-from-multiple-files-and-parsing-into-one-bean-object
+
+https://softwareengineering.stackexchange.com/questions/187464/generic-file-parser-design-in-java-using-the-strategy-pattern
