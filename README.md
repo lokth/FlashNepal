@@ -31,3 +31,5 @@ https://blog.codecentric.de/en/2010/06/spring-batch-2-1-a-small-migration-guide/
 https://blog.codecentric.de/en/2010/05/batch-processing-in-java-with-spring/
 https://www.javacodebook.com/2013/09/17/spring-book-chapter-21-spring-batch/6/
 https://stackoverflow.com/questions/33824074/how-to-process-files-of-different-formats-using-spring-batch
+
+https://www.javabrahman.com/design-patterns/strategy-design-pattern-in-java/
