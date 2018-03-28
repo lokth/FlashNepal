@@ -37,3 +37,9 @@ https://www.javabrahman.com/design-patterns/strategy-design-pattern-in-java/
 https://stackoverflow.com/questions/27776681/supercsv-reading-from-multiple-files-and-parsing-into-one-bean-object
 
 https://softwareengineering.stackexchange.com/questions/187464/generic-file-parser-design-in-java-using-the-strategy-pattern
+
+# Spring Retry
+https://stackoverflow.com/questions/27236216/is-it-possible-to-set-retrypolicy-in-spring-retry-based-on-httpstatus-status-cod
+https://stackoverflow.com/questions/38088449/how-can-i-make-spring-retryable-configurable
+https://stackoverflow.com/questions/38093388/spring-resttemplate-exception-handling
+https://stackoverflow.com/questions/23838752/spring-resttemplate-overriding-responseerrorhandler
