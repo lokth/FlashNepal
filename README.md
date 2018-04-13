@@ -43,3 +43,6 @@ https://stackoverflow.com/questions/27236216/is-it-possible-to-set-retrypolicy-i
 https://stackoverflow.com/questions/38088449/how-can-i-make-spring-retryable-configurable
 https://stackoverflow.com/questions/38093388/spring-resttemplate-exception-handling
 https://stackoverflow.com/questions/23838752/spring-resttemplate-overriding-responseerrorhandler
+
+# Spring Batch -> Multiple Parser solutions
+http://www.dofactory.com/topic/1443/what-design-pattern-s-to-use-to-build-a-extractor-for-a-flat-file-based-on-a.aspx
