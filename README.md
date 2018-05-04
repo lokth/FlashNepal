@@ -46,3 +46,17 @@ https://stackoverflow.com/questions/23838752/spring-resttemplate-overriding-resp
 
 # Spring Batch -> Multiple Parser solutions
 http://www.dofactory.com/topic/1443/what-design-pattern-s-to-use-to-build-a-extractor-for-a-flat-file-based-on-a.aspx
+
+# Q : Why does Hot reload not work with Spring Boot DevTools and Intellij?
+Here's a quick summary of what you have to do
+
+Settings --> Build-Execution-Deployment --> Compiler --> enable "Make Project Automatically".
+Press ctrl+shift+A and search for the registry. Enable following configuration compiler.automake.allow.when.app.running
+Restart IntelliJ.
+Recommended Reading
+
+https://dzone.com/articles/spring-boot-application-live-reload-hot-swap-with
+<dependency>
+   <groupId>org.springframework.boot</groupId>
+   <artifactId>spring-boot-devtools</artifactId>
+</dependency>
